@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TemperatureConvert/static/css/main.520e739c.css",
+    "main.js": "/TemperatureConvert/static/js/main.da68f6ad.js",
+    "index.html": "/TemperatureConvert/index.html",
+    "main.520e739c.css.map": "/TemperatureConvert/static/css/main.520e739c.css.map",
+    "main.da68f6ad.js.map": "/TemperatureConvert/static/js/main.da68f6ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520e739c.css",
+    "static/js/main.da68f6ad.js"
+  ]
+}
